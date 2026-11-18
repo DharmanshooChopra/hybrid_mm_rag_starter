@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "17ae0616ac745e70781203267f3a382d",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\17ae0616ac745e70781203267f3a382d.jpg",
+    "error": "cannot identify image file 'D:\\\\wwwdh\\\\Desktop\\\\hybrid_mm_rag_starter\\\\data\\\\multimodalqa\\\\images\\\\final_dataset_images\\\\17ae0616ac745e70781203267f3a382d.jpg'"
+  },
+  {
+    "doc_id": "bf201cbbd058ef51aef89b1be4158c2a",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\bf201cbbd058ef51aef89b1be4158c2a.jpg",
+    "error": "cannot identify image file 'D:\\\\wwwdh\\\\Desktop\\\\hybrid_mm_rag_starter\\\\data\\\\multimodalqa\\\\images\\\\final_dataset_images\\\\bf201cbbd058ef51aef89b1be4158c2a.jpg'"
+  },
+  {
+    "doc_id": "ef457a7b3ab437cd78ab9f82dc083048",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\ef457a7b3ab437cd78ab9f82dc083048.jpg",
+    "error": "cannot identify image file 'D:\\\\wwwdh\\\\Desktop\\\\hybrid_mm_rag_starter\\\\data\\\\multimodalqa\\\\images\\\\final_dataset_images\\\\ef457a7b3ab437cd78ab9f82dc083048.jpg'"
+  },
+  {
+    "doc_id": "225c3db49d60b5ef30ed0bfc649ebf78",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\225c3db49d60b5ef30ed0bfc649ebf78.jpg",
+    "error": "cannot identify image file 'D:\\\\wwwdh\\\\Desktop\\\\hybrid_mm_rag_starter\\\\data\\\\multimodalqa\\\\images\\\\final_dataset_images\\\\225c3db49d60b5ef30ed0bfc649ebf78.jpg'"
+  },
+  {
+    "doc_id": "b413cc1dc4969dcbe4cb6a55c0f2e359",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\b413cc1dc4969dcbe4cb6a55c0f2e359.jpg",
+    "error": "cannot identify image file 'D:\\\\wwwdh\\\\Desktop\\\\hybrid_mm_rag_starter\\\\data\\\\multimodalqa\\\\images\\\\final_dataset_images\\\\b413cc1dc4969dcbe4cb6a55c0f2e359.jpg'"
+  },
+  {
+    "doc_id": "e81b2acfd792b171389c8f47a0e14504",
+    "path": "D:\\wwwdh\\Desktop\\hybrid_mm_rag_starter\\data\\multimodalqa\\images\\final_dataset_images\\e81b2acfd792b171389c8f47a0e14504.jpg",
+    "error": "image file is truncated"
+  }
+]

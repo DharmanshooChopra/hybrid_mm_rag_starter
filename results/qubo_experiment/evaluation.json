@@ -1,0 +1,24 @@
+{
+  "evaluation_note": "Metrics use the same fused candidate pool and gold document IDs. QUBO selections are variable-size and constrained by the configured cost budget. Baseline is the first 10 fused candidates.",
+  "qubo": {
+    "recall": 0.14014504203975733,
+    "precision": 0.036802507429299844,
+    "mrr": 0.14013772653674325,
+    "ndcg": 0.11683888861512674,
+    "evaluated_queries": 2441
+  },
+  "baseline_top10": {
+    "recall": 0.43754218606738077,
+    "precision": 0.06312986480950292,
+    "mrr": 0.2999344856063414,
+    "ndcg": 0.2988087040821639,
+    "evaluated_queries": 2441
+  },
+  "selection_statistics": {
+    "mean_selected_documents": 6.313396149119214,
+    "mean_selected_cost": 1109.3605079885292,
+    "mean_objective": 0.06773671865965447,
+    "empty_selections": 0
+  },
+  "queries_without_gold_evidence": 0
+}

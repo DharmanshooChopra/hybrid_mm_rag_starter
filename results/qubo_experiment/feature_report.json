@@ -1,0 +1,14 @@
+{
+  "queries_written": 2441,
+  "missing_candidate_documents": 0,
+  "max_candidates": 12,
+  "token_budget": 1200,
+  "modality_counts": {
+    "text": 13286,
+    "image": 14646,
+    "table": 1360
+  },
+  "mean_cost": 178.30472483954662,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "image_cost_policy": "Fixed 256-unit pilot proxy; not measured visual token count."
+}
